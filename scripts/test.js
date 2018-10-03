@@ -1,4 +1,5 @@
 #! /usr/bin/env node
+// This is javascript
 
 const { exec, spawnSync } = require('child_process');
 const { chain, filter } = require('lodash');
